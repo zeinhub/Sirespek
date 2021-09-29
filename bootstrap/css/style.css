@@ -1,0 +1,24 @@
+.foooter {
+	padding-right: 30px;
+	padding-left: 30px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.pembungkus {
+	position: relative;
+}
+.header-container {
+	background: blueviolet url(bootstrap/img/logo.png);
+}
+.mantap {
+	padding-top: 20%;
+}
+.gambar {
+	background-image: url("bootstrap/img/1020.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+}
+/* .crs {
+	height: 50px;
+} */
